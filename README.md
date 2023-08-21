@@ -12,11 +12,6 @@ I'm a passionate front end developer with a focus on creating user-centric web e
 - Responsive Web Design
 - Version Control with Git
 
-🌐 Projects
-Check out some of my projects:
-1. [Project Name](Link)
-2. [Project Name](Link)
-3. [Project Name](Link)
 
 📚 Learning
 Currently pursuing a Master's in Data Science to expand my technical horizons.
