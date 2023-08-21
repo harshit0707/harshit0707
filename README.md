@@ -24,5 +24,6 @@ Currently pursuing a Master's in Data Science to expand my technical horizons.
 📫 Let's Connect
 - GitHub: [@harshit0707](https://github.com/harshit0707)
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/harshit77/)
+- Telegram: Reach me for faster responses on [Telegram](https://t.me/harshit77) (@harshit77)
 
 Let's collaborate and create amazing web solutions together!
