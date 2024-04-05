@@ -3,13 +3,13 @@
 Front End Developer | JavaScript & Python Enthusiast
 
 👨‍💻 About Me
-I'm a passionate front end developer with a focus on creating user-centric web experiences. Proficient in JavaScript and Python, I love building dynamic and interactive interfaces that bring ideas to life.
+I'm a passionate front-end developer with a focus on creating user-centric web experiences. Proficient in JavaScript, HTML, and CSS, I love building dynamic and interactive interfaces that bring ideas to life. 
 
 🚀 My Skills
 - Front End Development: HTML, CSS, JavaScript
-- Backend Technologies: Python
 - UI/UX Design Principles
 - Responsive Web Design
+- Standalone Web Components
 - Version Control with Git
 
 
