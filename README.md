@@ -1,6 +1,6 @@
 # Hello, I'm Harshit
 
-Front End Developer | JavaScript & Python Enthusiast
+Front End Developer | JavaScript Enthusiast
 
 👨‍💻 About Me
 I'm a passionate front-end developer with a focus on creating user-centric web experiences. Proficient in JavaScript, HTML, and CSS, I love building dynamic and interactive interfaces that bring ideas to life. 
